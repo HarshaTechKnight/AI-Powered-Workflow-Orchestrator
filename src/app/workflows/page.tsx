@@ -1,5 +1,5 @@
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { ArrowDown, Zap, File, MessageSquare, Translate } from "lucide-react";
+import { ArrowDown, Zap, File, MessageSquare, Languages } from "lucide-react";
 
 const AppIcon = ({ icon: Icon }: { icon: React.ElementType }) => (
   <div className="w-12 h-12 bg-card rounded-lg flex items-center justify-center border">
@@ -47,7 +47,7 @@ export default function WorkflowsPage() {
           <CardHeader>
             <div className="flex items-center gap-4">
                <div className="p-2 bg-primary/10 rounded-lg border border-primary/20">
-                <Translate className="w-6 h-6 text-primary" />
+                <Languages className="w-6 h-6 text-primary" />
               </div>
               <div>
                 <CardTitle>Action</CardTitle>
@@ -57,7 +57,7 @@ export default function WorkflowsPage() {
           </CardHeader>
           <CardContent>
             <div className="flex items-center gap-4 p-4 bg-muted/50 rounded-lg">
-              <AppIcon icon={Translate} />
+              <AppIcon icon={Languages} />
               <div>
                 <p className="font-semibold">Translate text with Google Translate</p>
                 <p className="text-sm text-muted-foreground">Translates the content of the file to English.</p>

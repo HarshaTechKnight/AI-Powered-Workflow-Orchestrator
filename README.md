@@ -7,8 +7,6 @@
 
 A sophisticated AI-powered workflow orchestrator that enables seamless automation across multiple SaaS platforms with an intuitive visual interface and intelligent automation suggestions.
 
-![image]("(<img width="1366" height="1409" alt="project-1" src="https://github.com/user-attachments/assets/fb6e7c4e-040e-48c8-941b-57637b2e1bf0" />)")
-
 ## 🚀 Key Features
 
 ### 🎯 Visual Workflow Builder

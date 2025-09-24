@@ -7,7 +7,7 @@
 
 A sophisticated AI-powered workflow orchestrator that enables seamless automation across multiple SaaS platforms with an intuitive visual interface and intelligent automation suggestions.
 
-![FlowForge AI Dashboard]("https://github.com/user-attachments/assets/643c5ce4-cdd0-4dd2-bbcc-318d2d2ee2a2")
+![image]("https://github.com/user-attachments/assets/643c5ce4-cdd0-4dd2-bbcc-318d2d2ee2a2")
 
 ## 🚀 Key Features
 

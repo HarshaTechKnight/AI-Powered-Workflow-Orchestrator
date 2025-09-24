@@ -50,8 +50,8 @@ export function ActivityChart() {
             />
             <YAxis />
             <ChartTooltip cursor={false} content={<ChartTooltipContent indicator="dot" />} />
-            <Bar dataKey="success" fill="var(--color-success)" radius={4} />
-            <Bar dataKey="failed" fill="var(--color-failed)" radius={4} />
+            <Bar dataKey="success" fill={chartConfig.success.color} radius={4} />
+            <Bar dataKey="failed" fill={chartConfig.failed.color} radius={4} />
           </BarChart>
         </ChartContainer>
       </CardContent>
